@@ -1,6 +1,8 @@
 -- CLAUDE AI v7.2 [GITHUB VERSION]
--- https://github.com/[TU_USUARIO]/Claude-AI
--- Ejecutar con: loadstring(game:HttpGet("https://raw.githubusercontent.com/[TU_USUARIO]/Claude-AI/main/Claude_AI_v7.2.lua"))()
+-- https://github.com/
+matosroger85u-stack/Claude-AI
+-- Ejecutar con: loadstring(game:HttpGet("https://raw.githubusercontent.com/
+matosroger85u-stack/Claude-AI/main/Claude_AI_v7.2.lua"))()
 
 local UserInputService = game:GetService("UserInputService")
 local Players = game:GetService("Players")
